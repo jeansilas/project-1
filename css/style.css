@@ -17,7 +17,7 @@ ul{
 header{
 	background-color:#F0F8FF;
 	padding:140px 100px;
-	background-image: url("C:/Users/fmili/Desktop/hike/landing_page/img/dog-header.png");
+	background-image: url(project_dog/img/dog-header.png);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -93,7 +93,7 @@ padding: 200px 0;
 
 .fourth-section{
 	background-color: #f0f8ff;
-	background-image:url(C:Users/fmili/Desktop/hike/landing_page/img/dogs-pattern.png);
+	background-image:url(project_dog/img/dogs-pattern.png);
 	background-repeat: repeat;
 	background-size: 192px 192px;
 }
